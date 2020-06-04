@@ -1,4 +1,4 @@
 #gitskills
 master switch
 
-dev switch
+Create a new branch is quick & simple
