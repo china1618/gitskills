@@ -1,4 +1,5 @@
 #gitskills
 master switch
 
-dev switch
+Cteating a new branch is quick AND simple
+
