@@ -1,4 +1,4 @@
 #gitskills
 master switch
 
-Create a new branch is quick & simple
+Cteating a new branch is quick AND simple
